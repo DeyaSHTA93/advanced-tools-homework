@@ -108,3 +108,10 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 900px) {
+  h1 {
+    font-size: 50px;
+    line-height: 1.5;
+  }
+}
